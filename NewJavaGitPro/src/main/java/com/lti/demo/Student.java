@@ -1,3 +1,5 @@
+package com.lti.demo;
+
 public class Student{
   public static void main(String[] args) {
 		
