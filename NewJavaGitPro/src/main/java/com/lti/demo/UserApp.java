@@ -8,6 +8,8 @@ public class UserApp {
 		
 		Person p = new Person(101,"Mobile",30000);
 		System.out.println(p);
+		
+		System.out.println("Will it work?");
 	}
 
 }
